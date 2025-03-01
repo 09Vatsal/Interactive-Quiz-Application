@@ -1,4 +1,4 @@
-# Interactive-Quiz-Application
+# Interactive-Quiz-Application Task 1
 COMPANY : CODTECH IT SOLUTIONS
 
 NAME : VATSAL SRIVASTAVA
